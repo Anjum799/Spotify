@@ -6,7 +6,9 @@
  match the Spotify web app.
 
 - This project shows how Django can be used to build a full-stack web app with multimedia features and a clean, responsive UI.
+  
 ✅ Features
+
 🎵 Spotify-like Interface
 Clean and modern design that looks like the real Spotify web app.
 
