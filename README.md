@@ -1,9 +1,9 @@
 # Spotify
-- This is a simple music streaming web application built with Django, inspired by the design of the official Spotify website. It allows users to view and play songs, browse popular albums, 
- and experience a Spotify-like interface.
+- This is a simple music streaming web application built with Django, inspired by the design of the official Spotify website. It allows users to view and play songs, browse popular 
+  albums, and experience a Spotify-like interface.
 
 - All music content (songs, album images, etc.) can be added through the Django Admin panel, and the front-end displays them dynamically. The layout, navigation bar, and styling closely 
- match the Spotify web app.
+  match the Spotify web app.
 
 - This project shows how Django can be used to build a full-stack web app with multimedia features and a clean, responsive UI.
   
@@ -37,21 +37,31 @@ Full CRUD (Create, Read, Update, Delete) operations through the admin panel.
 
 ## 💻 Technologies Used
 
-Python – Core programming language used with Django
+- Python – Core programming language used with Django
 
-Django – Backend web framework for building the app
+- Django – Backend web framework for building the app
 
-HTML5 – Structure of the web pages
+- HTML5 – Structure of the web pages
 
-CSS3 – Styling the UI to match Spotify’s design
+- CSS3 – Styling the UI to match Spotify’s design
 
-JavaScript – For interactive elements and audio control (if used)
+- JavaScript – For interactive elements and audio control (if used)
 
-SQLite3 – Default database used by Django
+- SQLite3 – Default database used by Django
 
-Django Admin Panel – For adding and managing songs and albums
+- Django Admin Panel – For adding and managing songs and albums
 
-HTML5 Audio Tag – To play songs directly in the browser
+- HTML5 Audio Tag – To play songs directly in the browser
 
-Bootstrap (optional, if used) – For responsive design and layout (let me know if you used it)
+- Bootstrap (optional, if used) – For responsive design and layout (let me know if you used it)
+
+## 📦 Requirements
+- To run this project locally, you’ll need the following:
+
+## 🔧 System Requirements:
+- Python 3.7+
+
+- pip (Python package manager)
+
+- Virtual environment (recommended)
 
