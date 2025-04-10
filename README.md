@@ -7,7 +7,7 @@
 
 - This project shows how Django can be used to build a full-stack web app with multimedia features and a clean, responsive UI.
   
-✅ Features
+## ✅ Features
 
 🎵 Spotify-like Interface
 Clean and modern design that looks like the real Spotify web app.
@@ -32,4 +32,26 @@ Works smoothly on desktop, tablet, and mobile devices.
 
 🎛️ Manage Songs & Albums
 Full CRUD (Create, Read, Update, Delete) operations through the admin panel.
+
+
+
+## 💻 Technologies Used
+
+Python – Core programming language used with Django
+
+Django – Backend web framework for building the app
+
+HTML5 – Structure of the web pages
+
+CSS3 – Styling the UI to match Spotify’s design
+
+JavaScript – For interactive elements and audio control (if used)
+
+SQLite3 – Default database used by Django
+
+Django Admin Panel – For adding and managing songs and albums
+
+HTML5 Audio Tag – To play songs directly in the browser
+
+Bootstrap (optional, if used) – For responsive design and layout (let me know if you used it)
 
