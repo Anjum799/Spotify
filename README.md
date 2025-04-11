@@ -63,5 +63,5 @@ Full CRUD (Create, Read, Update, Delete) operations through the admin panel.
 
 - pip (Python package manager)
 
-- Virtual environment (recommended)
+- Virtual environment 
 
